@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(117, 194, 215);
+    margin-left : 5%;
+}
+
+#monCanvas {
+    background-color: rgb(0, 0, 0);
+    position : absolute;
+    left : 1.25%;
+}
+
+.invisible {
+    display : none;
+}
